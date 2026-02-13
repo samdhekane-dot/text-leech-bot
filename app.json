@@ -24,7 +24,7 @@
             "required": true
         },
         "OWNER_ID": {
-            "description": "",
+            "description": "8398016815",
             "required": true
         },
         "SUDO_USERS": {
